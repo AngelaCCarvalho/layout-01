@@ -1,0 +1,42 @@
+Hardware se refere aos componentes físicos de um sistema de computador, ou seja, tudo aquilo que você pode tocar. Isso inclui desde os componentes internos, como a placa-mãe e o processador, até os periféricos externos, como o teclado e o mouse.
+
+Componentes Principais:
+
+Placa-mãe: A placa principal que conecta todos os outros componentes.
+Processador (CPU): O "cérebro" do computador, responsável por executar as instruções.
+Memória RAM: Armazena dados temporariamente para acesso rápido pelo processador.
+Armazenamento (HD/SSD): Armazena dados de forma permanente.
+Placa de vídeo (GPU): Processa imagens e vídeos para exibição no monitor.
+Fonte de alimentação: Fornece energia para os componentes.
+Periféricos: Dispositivos externos como teclado, mouse, monitor, impressora, etc.
+Análise de Hardware:
+
+A análise de hardware envolve avaliar o desempenho, a compatibilidade e a qualidade dos componentes. Isso pode ser feito por meio de:
+
+Benchmarks: Testes que medem o desempenho de um componente em tarefas específicas.
+Análises de desempenho: Avaliação do desempenho de um sistema em cenários de uso real.
+Análises de compatibilidade: Verificação se os componentes são compatíveis entre si.
+Análises de qualidade: Avaliação da durabilidade e confiabilidade dos componentes.
+Exemplos de Análises de Hardware:
+
+Análise de um processador: Avaliação do desempenho em tarefas como edição de vídeo, jogos e navegação na web.
+Análise de uma placa de vídeo: Avaliação do desempenho em jogos e aplicativos de edição de vídeo.
+Análise de um SSD: Avaliação da velocidade de leitura e gravação de dados.
+Análise de um computador completo: Avaliação do desempenho geral do sistema em diferentes cenários de uso.
+Onde Encontrar Análises de Hardware:
+
+Sites especializados: Existem diversos sites especializados em análises de hardware, como o AnandTech, o Tom's Hardware e o PC Gamer.
+Canais do YouTube: Muitos canais do YouTube fazem análises de hardware, como o Linus Tech Tips e o Gamers Nexus.
+Dicas para Escolher Hardware:
+
+Defina suas necessidades: Antes de comprar qualquer componente, defina quais tarefas você pretende realizar com o computador.
+Pesquise: Leia análises e compare diferentes modelos antes de tomar uma decisão.
+Verifique a compatibilidade: Certifique-se de que os componentes são compatíveis entre si.
+Considere o custo-benefício: Nem sempre o componente mais caro é o melhor para suas necessidades.
+
+
+
+
+
+
+
